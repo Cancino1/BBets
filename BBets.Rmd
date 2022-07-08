@@ -29,7 +29,7 @@ Report git commit structure: There are 3 questions and there should be at least 
 
 ## Our strategy is to build a Function and the use it to answer the three questions.
 
-The function will be given a class_size by number of students, odds, and Number_of_times brownlow made the bet. It will give you back how much Brownlows earnings were. We will use it to answer our three questions below. If you can, improve this function by giving default values to some of its inputs.
+The function will be given a class_size by number of students, odds, and Number_of_times brownlow made the bet. It will give you back how much Brownlows earnings were. We will use it to answer our three questions below. If you can, improve this function by giving default values to some of its inputs. 
 
 ## return with 35 students, 2:1 paid out
 
